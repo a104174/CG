@@ -1,0 +1,14 @@
+# build dirs
+build/
+**/build/
+
+# generated files
+*.3d
+
+# mac
+.DS_Store
+
+# misc
+*.o
+*.a
+*.so
